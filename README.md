@@ -1,7 +1,7 @@
 👋 Hey there, I'm Aditya-Dman!
 💻 Code Alchemist: Turning coffee ☕ into code and bugs 🐛 into features.
 🚀 Mission: To boldly debug what no one has debugged before.
-🐍 Languages: Fluent in Python, JavaScript, and Sarcasm.
+🐍 Languages: Fluent in Python, C++, and Sarcasm.
 🤔 Philosophy: “It works on my machine.”
 🔧 Skills:
 -Fixing bugs I didn’t create.
