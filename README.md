@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-dman&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-dman" /> </p>
 
-- 🌱 I’m currently learning Advanced machine learning techniques to refine predictive models. **Coursera**
+- 🌱 I’m currently Refining my skills on FLutter/Dart 
 
 - LinkedIn: Feel free to connect, or don't. Your choice **https://www.linkedin.com/in/aditya-dhiman-99104633a/**
 
