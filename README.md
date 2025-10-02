@@ -7,9 +7,7 @@
 
 - LinkedIn: Feel free to connect, or don't. Your choice **https://www.linkedin.com/in/aditya-dhiman-99104633a/**
 
-- 📫 How to reach me Email:because everyone loves inbox clutter **mui237756@gmail.com**
-
-- 📄 Know about my experiences [https://coffee-julissa-2.tiiny.site/](https://coffee-julissa-2.tiiny.site/)
+- 📫 How to reach me Email:because everyone loves inbox clutter **adityadhiman200477@gmail.com**
 
 - ⚡ Fun fact **I might look like I have everything together, but in reality, I’m just winging it with a lot of coffee and no idea what I'm doing.**
 
